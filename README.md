@@ -1,3 +1,3 @@
-### Exploratory Testing and Bug Report - Testlink
-### Web Automation - Selenium
+### Exploratory Testing and Bug Report - JIRA
+### Web Automation - Selenium + JUnit
 ### API Data Management - Postman
